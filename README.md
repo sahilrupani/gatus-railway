@@ -2,7 +2,7 @@
 
 # Deploy and Host Gatus on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/gatus?referralCode=QXdhdr)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/gatus-uptime-monitoring)
 
 Gatus is an open-source, developer-oriented health dashboard that continuously probes your endpoints over HTTP, ICMP, TCP, DNS, gRPC, WebSocket, SSH, and more, then surfaces the results on a public-or-private status page and alerts you through Slack, Discord, PagerDuty, Telegram, email, and dozens of other providers. Unlike heavier observability stacks, Gatus is a single Go binary configured by a single YAML file — perfect for monitoring your own SaaS, APIs, databases, and internal services without standing up Prometheus + Alertmanager + Grafana.
 
